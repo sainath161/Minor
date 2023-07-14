@@ -10,5 +10,5 @@ open GUI/main.java
 this is the main class where the project will run.
 
 COMPRESSOR_DECOMPRESSOR/src/main/java/GUI/main.java
-☝️
+👈
 the full path.
